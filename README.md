@@ -1,2 +1,7 @@
-# hello-world
-Tutorial for learning the procedure of creating a new repository
+# RODKP
+
+Hello Everyone!
+
+My name is **Rodrigo** and I am here to learn more of GitHub, OO, Apps and collaborative enviroments.
+
+
